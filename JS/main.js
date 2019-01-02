@@ -117,7 +117,7 @@ function countdown() {
 
 function checkStatus() {
     if(!isPlaying && time === 0){
-        message.innerHTML = 'Oh Man.....Game Over!'
+        message.innerHTML = 'OH MAN .... GAME OVER .... TRY AGAIN!'
         score= -1;
     }
 }
