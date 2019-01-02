@@ -50,7 +50,19 @@ const words = [
     'elements',
     'variables',
     'navigation',
-    'responsive'
+    'responsive',
+    'instructions',
+    'software',
+    'engineer',
+    'awesome',
+    'career',
+    'input',
+    'value',
+    'form',
+    'text',
+    'cascading',
+    'link',
+    'tag'
     
 ];
 
